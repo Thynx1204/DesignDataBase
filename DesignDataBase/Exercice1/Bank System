@@ -1,0 +1,26 @@
+Exercises
+
+UML Diagram Exercise: Banking System
+
+1. Diagramme de cas d'utilisation :
+	Les principaux acteurs impliqués dans un système bancaire sont :
+-les clients
+-les caissiers de banque
+-les administrateurs de banque
+
+	Les principaux cas d'utilisation (actions ou services) fournis par le système.
+Les Clients :
+	-Création de compte bancaire
+	-Dépôt et Retrait d'argent
+	-Transfére des fonds entre comptes
+	-Vérifier le solde de leur compte
+	-Demander des relevés de compte
+	-Mettre à jour leurs informations personnelles
+	
+Les caissiers de banque :
+	-Assistent les clients dans leurs transactions, telles que les dépôts, les retraits et les virements
+	-Accédent aux informations du compte client pour fournir les détails du solde
+	-Générent des relevés de compte sur demande.
+		
+Les administrateurs de banque :
+	-Gestion du système
